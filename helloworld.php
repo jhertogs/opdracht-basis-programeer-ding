@@ -1,9 +1,9 @@
 <?php 
-$text="hello, world\n";
-echo $text;
-echo $text;
-echo $text;
-echo $text;
-echo $text;
+$hallo="Hallo wereld!\n";
+echo $hallo;
+echo $hallo;
+echo $hallo;
+echo $hallo;
+echo $hallo;
 
 ?>
