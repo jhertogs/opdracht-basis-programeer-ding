@@ -1,9 +1,15 @@
 <?php 
-$hallo="Hallo wereld!\n";
-echo $hallo;
-echo $hallo;
-echo $hallo;
-echo $hallo;
-echo $hallo;
+$teller1=1;
+$maximum=10;
+
+$tekst="hallo wereld!\n";
+
+while($teller1 <= $maximum) {
+    echo "$tekst";
+    $teller1++;
+}
+
+
+
 
 ?>
