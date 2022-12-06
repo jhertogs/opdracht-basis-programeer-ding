@@ -10,7 +10,7 @@ func();
 
 echo "== Deze regel is tussen 2 func() uitgevoerd.\n";
 
-func("");
+func();
 
 echo "-- Deze regel is na func() uitgevoerd.\n";
 ?>
