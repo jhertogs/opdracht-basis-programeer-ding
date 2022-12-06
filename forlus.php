@@ -8,6 +8,6 @@ $tekst="Hello world!\n";
 //the for loop
 
 for ($teller=$begin;$teller<=$maximum;$teller++) {
-    echo"$tekst";
+    echo"$tekst $begin";
 }
 ?>
