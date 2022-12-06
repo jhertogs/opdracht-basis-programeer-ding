@@ -1,7 +1,7 @@
 <?php 
 
 //variables
-$begin=1;
+$begin=5;
 $maximum=10;
 $tekst="Hello world!\n";
 
