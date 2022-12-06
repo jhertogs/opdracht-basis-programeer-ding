@@ -1,1 +1,1 @@
-# opdracht basis programeer ding
+# opdracht basis programeeren
