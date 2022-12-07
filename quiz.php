@@ -49,22 +49,7 @@ if($input == $random) {
     echo "Geen valide antwoord";
     $teller++;
     }
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
  }
 
