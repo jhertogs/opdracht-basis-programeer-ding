@@ -8,7 +8,7 @@ $beurt=0;
 
 //de while loop (vraagt of je wilt starten)
 while ($teller <1) { 
-$input=readline("Wil je starten? druk op druk op een toets. En typ [stop] om te stoppen\n");
+$input=readline("Wil je starten? druk op druk op enter. En typ [stop] om te stoppen\n");
 $beurt++;
 
 //stopt de while loop als e stop wordt getypt
