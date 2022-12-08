@@ -1,5 +1,5 @@
 <?php 
-$teller1=1;
+$teller1=1; 
 $maximum=10;
 
 $tekst="hallo wereld!\n";
