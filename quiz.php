@@ -5,16 +5,20 @@ $teller=0;
 $random=rand(0,100);
 $beurt=0;
 
-//de while loop (vraagt eerst of je wilt starten)
+//vraagt of je wilt starten of wilt stoppen
 $input=readline("Wil je starten? druk op druk op enter. En typ [stop] om te stoppen\n");
-
-while ($teller <1) { 
-$beurt++;
 
 //stopt de while loop als stop wordt getypt
 if($input =="stop") {
         $teller++;
+        echo "Je hebt het programma gestopt";
     }
+
+    //de while loop 
+while ($teller <1) { 
+$beurt++;
+
+
     
     //vaagt om getal te raden
 $input=readline("raad een nummer tussen 0 en 100\n");
